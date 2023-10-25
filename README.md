@@ -1,6 +1,6 @@
 # tello_drone_image_recognition
 
-Control a dji tello with the video feed
+Control a DJI Tello EDU drone with the video feed
 
 ![Alt text](images/hand.jpg)
 
