@@ -1,3 +1,6 @@
+# ce code envoie les commandes au drone, il faut le démarrer en premier.
+# penser à adapter les adresses
+
 import socket
 from pathlib import Path
 import os

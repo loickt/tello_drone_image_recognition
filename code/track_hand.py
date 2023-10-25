@@ -1,3 +1,10 @@
+# LAncerd'abord "command.py"
+#Ce script ci crée les ordres qui seront transmis au drone en fonction de l'image reçue. 
+# penser à adapter les adresses
+
+#ici l'ordre passe par un fichier txt. Ce n'est vraiment pas optimisé, mais pas gênant,
+#       vue la latence déjà présente. On pourrait utiliser des variables d'environnement, ou un pipe. 
+
 from cvzone.HandTrackingModule import HandDetector
 import cv2
 import os
